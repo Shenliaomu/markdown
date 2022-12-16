@@ -21,8 +21,8 @@
   - join in a game
  - take part in团体性
  5. event 事件/ accident（不好的事件如：车祸）
-        -  a car ~ 车祸        
- <!-- ![ jpg 图片](b93e33767b4ef6f359be963441e2205c.jpeg) -->
+        -  a car ~ 车祸       
+<img src=https://tse3-mm.cn.bing.net/th/id/OIP-C.suBVDPn9Q-lME5LXqd8Y2AHaE_?w=247&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7 title="车祸">
 -  历史事件    
 A historical event
 - 国家事件   
